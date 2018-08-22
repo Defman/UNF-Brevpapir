@@ -121,7 +121,7 @@
 
 \def\@head{
   \hspace{\textwidth}\hspace{3mm}\parbox{40mm}{\color{gray}{
-    \includegraphics[width=40mm]{logo}\vspace{10mm}
+    \includegraphics[width=40mm]{../logo}\vspace{10mm}
     {\fontsize{10pt}{0mm}\normalfont
       \organization \vspace{10pt}
 
